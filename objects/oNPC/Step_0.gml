@@ -3,13 +3,13 @@
 
 if (global.value == "E1")
 {
-	sprite_index = sExample;
+	sprite_index = sStoreClerk;
 	visible = true;
 }
 
 else if (global.value == "E")
 {
-	sprite_index = sExample2;
+	sprite_index = sPriest;
 	visible = true;
 }
 
