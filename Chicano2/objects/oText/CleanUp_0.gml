@@ -2,3 +2,4 @@
 
 ds_map_destroy(textMap);
 ds_map_destroy(textOptions); 
+

@@ -6,9 +6,10 @@ if (question == false)
 {
 	global.value += "E";
 	num += "E";
+	global.sprite += "E";
 	draw_text_speed("Reset");
 	
-	if (text = "You did it!")
+	if (text = "Too bad.")
 	{
 		room_goto(rLose);
 	}

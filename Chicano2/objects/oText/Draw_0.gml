@@ -43,3 +43,4 @@ if(question == true) //if it's a question, give options
 draw_set_halign(fa_center); //center align
 draw_set_valign(fa_center);
 draw_text(50,50,global.days);
+draw_text(100,50,global.sprite);

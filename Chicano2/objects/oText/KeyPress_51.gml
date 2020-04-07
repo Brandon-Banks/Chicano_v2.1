@@ -4,8 +4,9 @@ audio_play_sound(sndPress, 111, false);
 
 if (question == true)
 {
-	global.value += "3";
-	num += "3";
+	global.value += "C";
+	num += "C";
+	global.sprite += "3";
 	draw_text_speed("Reset");
 	global.days++;
 	global.sup++;

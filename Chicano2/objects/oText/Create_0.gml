@@ -11,6 +11,7 @@ textMap = ds_map_create(); //database for questions
 textOptions = ds_map_create(); //database for options
 //value = 0; // textMap value
 global.value = "";
+global.sprite = "";
 num = ""; // textOption value
 global.days = 0;
 
@@ -36,6 +37,39 @@ ds_map_add(textMap,"","Welcome");
 ds_map_add(textMap,"E","What do you want to do today?");
 ds_map_add(textOptions,"E","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
 
-ds_map_add(textMap,"E1","Neat.");
+ds_map_add(textMap,"EC","Cool.");
 
-ds_map_add(textMap,"E2","Too bad.");
+ds_map_add(textMap,"ECE","What do you want to do today?");
+ds_map_add(textOptions,"ECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+
+ds_map_add(textMap,"ECEC","Cool.");
+
+ds_map_add(textMap,"ECECE","What do you want to do today?");
+ds_map_add(textOptions,"ECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+
+ds_map_add(textMap,"ECECEC","Cool.");
+
+ds_map_add(textMap,"ECECECE","What do you want to do today?");
+ds_map_add(textOptions,"ECECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+
+ds_map_add(textMap,"ECECECEC","Cool.");
+
+ds_map_add(textMap,"ECECECECE","What do you want to do today?");
+ds_map_add(textOptions,"ECECECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+
+ds_map_add(textMap,"ECECECECEC","Cool.");
+
+ds_map_add(textMap,"ECECECECECE","What do you want to do today?");
+ds_map_add(textOptions,"ECECECECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+
+ds_map_add(textMap,"ECECECECECEC","Cool.");
+
+ds_map_add(textMap,"ECECECECECECE","What do you want to do today?");
+ds_map_add(textOptions,"ECECECECECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+
+ds_map_add(textMap,"ECECECECECECEC","Neat.");
+
+
+
+
+//
