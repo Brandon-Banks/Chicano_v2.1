@@ -343,14 +343,6 @@
             }
         },
         {
-            "Key": "a1e7daf1-9173-4f12-ae6e-3244c718fc05",
-            "Value": {
-                "id": "6268e93c-9f51-4d15-914f-d0c404099624",
-                "resourcePath": "objects\/oText1\/oText1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "c524f91b-939a-4d5d-a89b-dffb41941fb7",
