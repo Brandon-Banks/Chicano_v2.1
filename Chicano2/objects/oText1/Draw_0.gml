@@ -8,11 +8,11 @@ draw_set_valign(fa_center);
 
 //ds_map_find_value(id,key)
 //Store current string in text
-txt = ds_map_find_value(textMap,global.value);
+text = ds_map_find_value(textMap,global.value);
 opt = ds_map_find_value(textOptions,num);
 
 //if string character at end of string(text) = ?, then set question to true
-if (string_char_at(txt, string_length(txt)) == "?")
+if (string_char_at(text, string_length(text)) == "?")
 {
 	question = true;
 }
@@ -25,7 +25,7 @@ else
 //draw_text(x,y,string)
 //draw_text(room_width/2,50,(text)); //Old way to draw question
 
-draw_text_speed(room_width/2,50, string(txt), 0.05 * room_speed);
+draw_text_speed(room_width/2,50, string(text), 0.05 * room_speed);
 //room_speed = one second
 
 draw_set_color(c_white); //change font to red
