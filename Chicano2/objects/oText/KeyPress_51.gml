@@ -9,6 +9,6 @@ if (question == true)
 	global.sprite += "3";
 	draw_text_speed("Reset");
 	global.days++;
-	global.sup += 3;
-	global.money += -3;
+	global.sup += 6;
+	global.money += -6;
 }

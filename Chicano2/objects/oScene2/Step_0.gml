@@ -10,7 +10,7 @@ if (string_char_at(global.sprite, string_length(global.sprite)) == "1")
 
 else if (string_char_at(global.sprite, string_length(global.sprite)) == "2")
 {
-	sprite_index = sDusk;
+	sprite_index = sProtest;
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }

@@ -9,6 +9,6 @@ if (question == true)
 	global.sprite += "2";
 	draw_text_speed("Reset");
 	global.days++;
-	global.soc += 2;
-	global.work += -3;
+	global.soc += 4;
+	global.work += -6;
 }

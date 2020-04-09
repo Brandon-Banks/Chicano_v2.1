@@ -7,14 +7,14 @@ if (string_char_at(global.sprite, string_length(global.sprite)) == "1")
 	//object_set_sprite(oChar2, sMiguelWorking);
 	visible = true;
 }
-
+/*
 else if (string_char_at(global.sprite, string_length(global.sprite)) == "2")
 {
 	sprite_index = sMiguelProtest;
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }
-
+*/
 else if (string_char_at(global.sprite, string_length(global.sprite)) == "3")
 {
 	sprite_index = sMiguelShop;

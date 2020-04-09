@@ -9,7 +9,7 @@ if (question == true)
 	global.sprite += "1";
 	draw_text_speed("Reset");
 	global.days++;
-	global.money++;
-	global.work += 2;
-	global.sup += -2;
+	global.money += 2;
+	global.work += 4;
+	global.soc += -4;
 }
