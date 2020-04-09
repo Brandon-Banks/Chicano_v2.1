@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0aca375f-9d11-44aa-9254-1ac4f8a6ade5",
+            "Value": {
+                "id": "8528b4ee-6192-401e-8b42-44deaac5cddb",
+                "resourcePath": "rooms\/rMoneyLoss\/rMoneyLoss.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0e566c2b-5c5f-447c-9c94-48ef83a44595",
             "Value": {
                 "id": "e2d6f1d1-bf4f-47f1-8b83-9fafd8f59dfb",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "3d04e8ed-add5-4249-b692-a1e4679939b2",
+            "Value": {
+                "id": "97e5d14d-db85-4c99-a8d6-7fa8f1ffb45e",
+                "resourcePath": "objects\/oSocLoss\/oSocLoss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3fe0c2e5-73ec-4a6c-b4c4-6d5cf17822f6",
             "Value": {
                 "id": "dce2c849-d198-470f-984f-98cb82e14a1e",
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "4b482874-6cfa-44ff-8581-fc6b5fc2425d",
+            "Value": {
+                "id": "88bed9f3-411a-43ed-b0bd-24d2650986b0",
+                "resourcePath": "objects\/oSupLoss\/oSupLoss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4df4c54b-dce2-4f67-862a-3ee1580ffb89",
             "Value": {
                 "id": "7fba3f8e-2793-4234-aa55-43e8397c8021",
@@ -220,6 +244,14 @@
                 "id": "06d63db5-f2a2-4710-9ec2-1e82bdb04d91",
                 "resourcePath": "sounds\/sndWin\/sndWin.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "5c0dac85-e547-4ca2-ac32-bbe26e199ce0",
+            "Value": {
+                "id": "395d674f-3c36-4ab4-9a0f-1eb06b1b0c62",
+                "resourcePath": "rooms\/rWorkLoss\/rWorkLoss.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -431,6 +463,14 @@
             }
         },
         {
+            "Key": "cbb7be77-141d-47e2-9b52-8a04869b70b4",
+            "Value": {
+                "id": "bd07d412-16e6-4bcb-8042-3da8e97150e9",
+                "resourcePath": "views\/cbb7be77-141d-47e2-9b52-8a04869b70b4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "510a65cf-c5fc-47f1-b743-b841914c9af6",
@@ -439,11 +479,27 @@
             }
         },
         {
+            "Key": "cf3e4f98-9997-4a50-8c58-327545592e3f",
+            "Value": {
+                "id": "2921deeb-2b16-4703-abd5-8aec3ac7a8e2",
+                "resourcePath": "rooms\/rSupLoss\/rSupLoss.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d102d9c2-5f0d-40fe-ae38-922b3a8f6d89",
             "Value": {
                 "id": "2406672c-0ce3-4e08-8332-7b56db8c4ac5",
                 "resourcePath": "views\/d102d9c2-5f0d-40fe-ae38-922b3a8f6d89.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d17e3e42-80ca-4438-9678-a24c168217f9",
+            "Value": {
+                "id": "0e21a127-6967-4906-b8ae-0427a3a76945",
+                "resourcePath": "objects\/oWorkLoss\/oWorkLoss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -459,6 +515,14 @@
             "Value": {
                 "id": "f0f636cf-d0e8-4454-ac8f-e662a099191b",
                 "resourcePath": "objects\/oGameState\/oGameState.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d531b74d-7875-4bfc-9604-137470ecc61e",
+            "Value": {
+                "id": "7c0675e2-4a35-4a17-b885-a9b6db0d581c",
+                "resourcePath": "objects\/oMoneyLoss\/oMoneyLoss.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -551,6 +615,14 @@
             }
         },
         {
+            "Key": "e96994e0-69c2-4b9b-b0c5-f21be7b90b6d",
+            "Value": {
+                "id": "6164a03c-62c5-42ca-bf7f-c571dcc47459",
+                "resourcePath": "objects\/oNPC2\/oNPC2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea1d279f-17e0-465d-84a8-dace17cefc1a",
             "Value": {
                 "id": "b31c703e-1fde-4060-9e6e-51b6f67f24a2",
@@ -588,6 +660,14 @@
                 "id": "ec648631-7cfe-45c4-b882-ed1612fa0312",
                 "resourcePath": "views\/f0631157-7563-469a-b722-cd51c6aa2bc5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1cc971d-4fd2-44c3-ae30-80f0dbcf93f9",
+            "Value": {
+                "id": "dd75cba8-24f4-4003-a2ab-a5ce5c52ef07",
+                "resourcePath": "rooms\/rSocLoss\/rSocLoss.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

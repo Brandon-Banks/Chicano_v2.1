@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-/*
+
 if (string_char_at(global.sprite, string_length(global.sprite)) == "1")
 {
 	sprite_index = sMiguelWorking;

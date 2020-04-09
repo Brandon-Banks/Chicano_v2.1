@@ -10,6 +10,6 @@ if (question == true)
 	draw_text_speed("Reset");
 	global.days++;
 	global.money++;
-	global.work++;
-	global.sup--;
+	global.work += 2;
+	global.sup += -2;
 }

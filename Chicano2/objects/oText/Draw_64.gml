@@ -20,3 +20,23 @@ draw_sprite(sMoney,0,statbar_x - 50,statbar_y - 5);
 draw_sprite(sSup,0,statbar_x - 50,statbar_y + 45);
 draw_sprite(sWork,0,statbar_x - 50,statbar_y + 95);
 draw_sprite(sSoc,0,statbar_x - 50,statbar_y + 145);
+
+if (global.money > global.statmax)
+{
+	global.money = global.statmax;
+}
+
+if (global.sup > global.statmax)
+{
+	global.sup = global.statmax;
+}
+
+if (global.work > global.statmax)
+{
+	global.work = global.statmax;
+}
+
+if (global.soc > global.statmax)
+{
+	global.soc = global.statmax;
+}
