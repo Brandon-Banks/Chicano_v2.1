@@ -1,8 +1,8 @@
 {
-    "id": "4a5de175-1912-4841-a98b-3f793a64c187",
+    "id": "ebbb4f15-9f32-47fb-bc89-b924dbe7be0a",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sndPress",
+    "name": "sndMain",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.5
+    "volume": 1
 }
