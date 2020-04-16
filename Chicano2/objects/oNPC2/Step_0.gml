@@ -14,14 +14,14 @@ if (string_char_at(global.sprite, string_length(global.sprite)) == "2")
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }
-
-else if (string_char_at(global.sprite, string_length(global.sprite)) == "3")
+*/
+if (string_char_at(global.sprite, string_length(global.sprite)) == "3")
 {
 	sprite_index = sClerk;
 	//object_set_sprite(oChar2, sMiguelShop);
 	visible = true;
 }
-
+/*
 else if (string_char_at(global.sprite, string_length(global.sprite)) == "4")
 {
 	sprite_index = sPrst;
@@ -35,5 +35,5 @@ else if (string_char_at(global.sprite, string_length(global.sprite)) == "E")
 	//object_set_sprite(oChar2, sMiguelidle);
 	visible = true;
 }
-
+*/
 else visible = false;

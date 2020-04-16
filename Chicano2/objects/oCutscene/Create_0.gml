@@ -12,6 +12,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "First line of text!";
-strings[1] = "Second line of text!";
-strings[2] = "This is the third\nline of text!";
+strings[0] = "Hola Miguel! I know it is hard work on\nthe grape farm, but I hope all is well.";
+strings[1] = "It's crazy that the farm owners are\nallowing the FBI to begin surveilling\nfarm workers here in California!";
+strings[2] = "But hey, I heard that you were planning on\njoining some of your amigos on the journey towards\nWashington in the hopes of a better work situation.";
+strings[3] = "They are planning on\nleaving in 30 days.";
+strings[4] = "Good luck preparing for\nyour journey, Mijo!"

@@ -17,7 +17,7 @@ else if (string_char_at(global.sprite, string_length(global.sprite)) == "2")
 
 else if (string_char_at(global.sprite, string_length(global.sprite)) == "3")
 {
-	sprite_index = sDusk;
+	sprite_index = sStore;
 	//object_set_sprite(oChar2, sMiguelShop);
 	visible = true;
 }
