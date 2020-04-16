@@ -1,7 +1,7 @@
 /// @desc Text & Variables
 // Create Variables
 
-audio_sound_gain(sndCoco,-1,5000);
+//audio_sound_gain(sndCoco,-1,5000);
 //audio_stop_all();
 audio_play_sound(sndBackgroundMusic,1,true);
 audio_sound_gain(sndBackgroundMusic,-1,0);

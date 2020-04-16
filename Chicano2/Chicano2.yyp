@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02734c93-ec2a-40e6-9894-7f38117717ca",
+            "Value": {
+                "id": "718aad0e-4d21-47c8-85bc-700f76905f57",
+                "resourcePath": "views\/02734c93-ec2a-40e6-9894-7f38117717ca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "03ad1c00-012f-4785-bece-dd1880bf016c",
             "Value": {
                 "id": "ac2ee409-4568-467f-b109-20fd11619616",
@@ -132,6 +140,14 @@
                 "id": "58a6b8c8-dcb4-4a40-aa38-873005cfd03b",
                 "resourcePath": "sprites\/sWork\/sWork.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3bcb5e74-c472-4c58-be2d-336ed0f2f038",
+            "Value": {
+                "id": "f314a719-55fc-4c11-a5f6-293b20ce6ee7",
+                "resourcePath": "objects\/oCutscene\/oCutscene.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +391,22 @@
             }
         },
         {
+            "Key": "8b573388-c1e1-4348-b8b1-0418240d6d9f",
+            "Value": {
+                "id": "077b23cc-f006-4f7e-aa80-e048df3ec410",
+                "resourcePath": "rooms\/rCutscene\/rCutscene.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "928ed61a-feca-4f71-8dcc-889e4e5f7ab4",
+            "Value": {
+                "id": "7ef792f5-2070-4bb8-b1ca-b265e8d1e3e1",
+                "resourcePath": "sprites\/sPixel\/sPixel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e8a802a-d940-46fc-9d90-7a69f3fbe90e",
             "Value": {
                 "id": "f25986c0-8377-4ebd-97e1-8df537b9bb20",
@@ -484,6 +516,14 @@
                 "id": "9911eee4-345f-4817-b33b-7a591ae7b6e7",
                 "resourcePath": "objects\/oChar2\/oChar2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cb6e0e23-9da6-44e0-b76d-c28994f74ec2",
+            "Value": {
+                "id": "e8229ae9-8a9e-4def-887c-fff2b3e46e7b",
+                "resourcePath": "sprites\/sMiguelCutscene\/sMiguelCutscene.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
