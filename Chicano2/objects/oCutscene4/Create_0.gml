@@ -12,8 +12,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "Hola Miguel! I know it is hard work on\nthe grape farm, but I hope all is well.";
-strings[1] = "It's crazy that the farm owners are\nallowing the FBI to begin surveilling\nfarm workers here in California!";
-strings[2] = "But hey, I heard that you were planning on\njoining some of your amigos on a journey towards\nWashington to find better working conditions.";
-strings[3] = "You're leaving in\n30 days right?";
-strings[4] = "Good luck preparing for\nyour journey, Mijo!"
+strings[0] = "The last scene. Finally.\nProbably the best scene.";
+strings[1] = "A scene so crazy good that it would blow your\nmind just how awesome it actually is. You ready?";
+strings[2] = "I am so excited to tell you all about\nit that I can't even contain myself.\nMy heart is beating like a drum.";
+strings[3] = "But how much time do\nyou have to hear it?";
+strings[4] = "Enought time. Alright.\nA long, long time ago..."

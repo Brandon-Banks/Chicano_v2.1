@@ -12,8 +12,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "Hola Miguel! I know it is hard work on\nthe grape farm, but I hope all is well.";
-strings[1] = "It's crazy that the farm owners are\nallowing the FBI to begin surveilling\nfarm workers here in California!";
-strings[2] = "But hey, I heard that you were planning on\njoining some of your amigos on a journey towards\nWashington to find better working conditions.";
-strings[3] = "You're leaving in\n30 days right?";
-strings[4] = "Good luck preparing for\nyour journey, Mijo!"
+strings[0] = "This is the third cutscene.\nYou know what that means.";
+strings[1] = "Well then please tell me. Because\nI don't know what that means.";
+strings[2] = "Did you heard the tragedy of Darth Plaigus\nthe Wise?I thought not. It's not a\nstory the jedi would tell you.";
+strings[3] = "You've got 20 days me dude.";
+strings[4] = "S'go bucs!"

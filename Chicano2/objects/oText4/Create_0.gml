@@ -32,22 +32,22 @@ ds_map_add(textMap,"","Glad to see you're safe.");
 ds_map_add(textMap,"E","What do you want to do today?");
 ds_map_add(textOptions,"E","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
 
-ds_map_add(textMap,"EC","Cool.");
+ds_map_add(textMap,"EC","Great.");
 
 ds_map_add(textMap,"ECE","What do you want to do today?");
 ds_map_add(textOptions,"ECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
 
-ds_map_add(textMap,"ECEC","Cool.");
+ds_map_add(textMap,"ECEC","Perfect.");
 
 ds_map_add(textMap,"ECECE","What do you want to do today?");
 ds_map_add(textOptions,"ECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
 
-ds_map_add(textMap,"ECECEC","Cool.");
+ds_map_add(textMap,"ECECEC","Awesome.");
 
 ds_map_add(textMap,"ECECECE","What do you want to do today?");
 ds_map_add(textOptions,"ECECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
 
-ds_map_add(textMap,"ECECECEC","Cool.");
+ds_map_add(textMap,"ECECECEC","Amazing.");
 
 ds_map_add(textMap,"ECECECECE","What do you want to do today?");
 ds_map_add(textOptions,"ECECECECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");

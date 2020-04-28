@@ -32,7 +32,26 @@ draw_set_color(c_white); //change font to red
 draw_set_font(fBody); //change to body font
 if(question == false) //if it's not a question, press enter
 {
-	draw_text(room_width/2,room_height/2 + 200,"Press Enter");
+	if (string_char_at(global.sprite, string_length(global.sprite)) == "1")
+	{
+		draw_text(room_width/2 - 200,room_height/2 + 200,"Good work at the farm.\n Press Enter.");
+	}
+	else if (string_char_at(global.sprite, string_length(global.sprite)) == "2")
+	{
+		draw_text(room_width/2 - 200,room_height/2 + 200,"What you did today was really important.\n Press Enter.");
+	}
+	else if (string_char_at(global.sprite, string_length(global.sprite)) == "3")
+	{
+		draw_text(room_width/2 - 200,room_height/2 + 200,"Get all you need?\n Press Enter.");
+	}
+	else if (string_char_at(global.sprite, string_length(global.sprite)) == "4")
+	{
+		draw_text(room_width/2 - 200,room_height/2 + 200,"Study hard if you want to get outta here.\n Press Enter.");
+	}
+	else
+	{
+		draw_text(room_width/2 - 200,room_height/2 + 200,"Press Enter.");
+	}
 }
 if(question == true) //if it's a question, give options
 {

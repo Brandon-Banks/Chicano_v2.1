@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0489b41d-31a5-45bc-a3e7-82598cd53c12",
+            "Value": {
+                "id": "caf79ea8-286c-4470-84d0-4cac33ca52ca",
+                "resourcePath": "sprites\/sPoliceOfficer\/sPoliceOfficer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "07b271a5-3058-4a41-bcab-7b8807c4fa0c",
             "Value": {
                 "id": "439d6bb2-b929-4a71-abfc-29b6b82a91aa",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "1e984924-2b23-4fd5-9423-3a8fe8e7d96c",
+            "Value": {
+                "id": "491b7281-61b9-40bf-afba-f40a8c7f7e55",
+                "resourcePath": "sprites\/sLibrary\/sLibrary.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1eee8153-731a-49ec-9c95-472a88c7671c",
             "Value": {
                 "id": "0a0d1113-bf6b-4a4a-878c-42dd6bc80084",
@@ -164,6 +180,14 @@
                 "id": "bb90ebbc-356c-40b1-8e0c-1a8b1343c2f2",
                 "resourcePath": "objects\/oLose\/oLose.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34d4721d-e157-449a-a668-578447dcb24d",
+            "Value": {
+                "id": "c1ca5ffa-2b7a-443b-9c9c-e38d0db14b90",
+                "resourcePath": "sprites\/sRedneck\/sRedneck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -995,6 +1019,14 @@
             "Value": {
                 "id": "0b4904ba-f787-45ce-80c0-a5852289500a",
                 "resourcePath": "sprites\/sClassroom\/sClassroom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd0b8249-057a-40db-bed4-f4ebf2cd0ac6",
+            "Value": {
+                "id": "ef2f64a9-bd31-4989-9527-d61e66dfbedb",
+                "resourcePath": "sprites\/sPoliceCar\/sPoliceCar.yy",
                 "resourceType": "GMSprite"
             }
         }

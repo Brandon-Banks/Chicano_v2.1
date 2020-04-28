@@ -12,8 +12,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "Hola Miguel! I know it is hard work on\nthe grape farm, but I hope all is well.";
-strings[1] = "It's crazy that the farm owners are\nallowing the FBI to begin surveilling\nfarm workers here in California!";
-strings[2] = "But hey, I heard that you were planning on\njoining some of your amigos on a journey towards\nWashington to find better working conditions.";
-strings[3] = "You're leaving in\n30 days right?";
-strings[4] = "Good luck preparing for\nyour journey, Mijo!"
+strings[0] = "Darth Plagueis was a Dark Lord of the Sith.";
+strings[1] = "So powerful and so wise he could use the Force to\ninfluence the midichlorians to create life...";
+strings[2] = "He had such a knowledge of the dark side that he\ncould even keep the ones he cared about from dying";
+strings[3] = "The dark side of the Force is a\npathway to many abilities.";
+strings[4] = "So even consider them to be unnatural.\nHe became so powerful..."
