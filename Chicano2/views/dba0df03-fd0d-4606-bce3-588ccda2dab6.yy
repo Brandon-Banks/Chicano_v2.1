@@ -8,7 +8,7 @@
         "c9bc28fb-2089-47e3-b39e-5a310e98897d"
     ],
     "filterType": "GMObject",
-    "folderName": "oCharacters",
+    "folderName": "Characters",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

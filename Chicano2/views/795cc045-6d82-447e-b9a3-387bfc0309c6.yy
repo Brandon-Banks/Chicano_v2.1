@@ -11,7 +11,7 @@
         "c41c6624-fb3e-4799-a369-3bd5edd33e7b"
     ],
     "filterType": "GMObject",
-    "folderName": "oCutscenes",
+    "folderName": "Cutscenes Chap1",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

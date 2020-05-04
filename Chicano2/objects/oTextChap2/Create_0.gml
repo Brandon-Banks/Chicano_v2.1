@@ -14,12 +14,12 @@ global.value = "";
 global.sprite = "";
 num = ""; // textOption value
 global.days = 0;
-
+/*
 global.money2 = global.money;
 global.sup2= global.sup;
 global.work2 = global.work;
 global.soc2 = global.soc;
-
+*/
 global.statmax = 100;
 statbar_width = 200;
 statbar_height = 18;
@@ -32,12 +32,33 @@ question = false;
 //ds_map_add(id, key, value);
 
 /////////////////////////////////////////////////////////
-ds_map_add(textMap,"","Welcome");
+ds_map_add(textMap,"","Hola Miguel.");
 
-ds_map_add(textMap,"E","What do you want to do today?");
-ds_map_add(textOptions,"E","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");
+ds_map_add(textMap,"E","How would you like to travel?");
+ds_map_add(textOptions,"E","1.) Bus\n 2.) Hitch-Hike\n 3.) Carpool\n 4.) Train");
 
-ds_map_add(textMap,"EC","Great.");
+//////////////////////////////////// BUS
+ds_map_add(textMap,"E1","Boose.");
+ds_map_add(textOptions,"E1","A couple of your buddies\nare going that way too!\n\nPress Enter");
+
+ds_map_add(textMap,"E1E","Boose.");
+ds_map_add(textOptions,"E1E","This first ticket is taking\nyou to Sacramento!\n\nPress Enter");
+
+ds_map_add(textMap,"E1EE","Boose.");
+ds_map_add(textOptions,"E1EE","When getting on the bus, the bus driver stops you\nand asks why you are going to Sacramento.\n\nPress Enter");
+
+ds_map_add(textMap,"E1EEE","What do you say?");
+ds_map_add(textOptions,"E1EEE","1.) I am an activist going to support the\nChicano movement in Washington.\n2.) I am going to visit family in Sacramento.\n3.) Going on a vacation.\n4.) Going to find a new job in Washington.");
+
+
+//////////////////////////////////// HITCH-HIKE
+ds_map_add(textMap,"E2","Heak.");
+
+//////////////////////////////////// CARPOOL
+ds_map_add(textMap,"E3","Cahhpul.");
+
+//////////////////////////////////// TRAIN
+ds_map_add(textMap,"E4","Twain.");
 
 ds_map_add(textMap,"ECE","What do you want to do today?");
 ds_map_add(textOptions,"ECE","1.) Work\n 2.) Protest\n 3.) Shop\n 4.) Study");

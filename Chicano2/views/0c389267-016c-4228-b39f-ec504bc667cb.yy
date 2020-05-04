@@ -8,7 +8,7 @@
         "9438cf87-935c-4986-8c47-7a17bb9c2452"
     ],
     "filterType": "GMObject",
-    "folderName": "oTransitions",
+    "folderName": "Transitions",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

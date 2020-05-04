@@ -4,6 +4,8 @@ xpos = 640;
 a = 1;
 fadeout = 0;
 
+global.sup += 20;
+
 str = "";
 print = "";
 
@@ -12,8 +14,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "The last scene. Finally.\nProbably the best scene.";
-strings[1] = "A scene so crazy good that it would blow your\nmind just how awesome it actually is. You ready?";
-strings[2] = "I am so excited to tell you all about\nit that I can't even contain myself.\nMy heart is beating like a drum.";
-strings[3] = "But how much time do\nyou have to hear it?";
-strings[4] = "Enought time. Alright.\nA long, long time ago..."
+strings[0] = "Wow! It is almost time to leave! There’s\nonly a little bit more to prepare.";
+strings[1] = "You might as well harvest what is in your\nhome garden to take with you on the trip.";
+strings[2] = "YOU GAINED 20 SUPPLIES.";
+strings[3] = "Packing up your supplies would also be good.\nA small bag is pretty much all you have room for.";
+strings[4] = "Looks like you are pretty set! Finish up your\nlast couple days and then you’ll be ready to go!"

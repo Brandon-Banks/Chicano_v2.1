@@ -7,7 +7,7 @@
         "04deb05e-04d4-4992-85ee-dae0ace167e6"
     ],
     "filterType": "GMObject",
-    "folderName": "oTextsChap2",
+    "folderName": "Text Chap2",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

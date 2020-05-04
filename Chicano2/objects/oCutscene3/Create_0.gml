@@ -4,6 +4,8 @@ xpos = 640;
 a = 1;
 fadeout = 0;
 
+global.money -= 20;
+
 str = "";
 print = "";
 
@@ -12,8 +14,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "Darth Plagueis was a Dark Lord of the Sith.";
-strings[1] = "So powerful and so wise he could use the Force to\ninfluence the midichlorians to create life...";
-strings[2] = "He had such a knowledge of the dark side that he\ncould even keep the ones he cared about from dying";
-strings[3] = "The dark side of the Force is a\npathway to many abilities.";
-strings[4] = "So even consider them to be unnatural.\nHe became so powerful..."
+strings[0] = "On your way home today a police officer stopped\nyou and asked if you are a citizen.";
+strings[1] = "Since you couldn’t show proof that\nyou were a citizen he took you to jail!";
+strings[2] = "At least there was bail that you could meet.\nYou can work to get that money back.";
+strings[3] = "YOU LOST $20.";
+strings[4] = "Sorry you had to go through that, but\nyou are so close to getting out of here!\nOnly 10 days left!"

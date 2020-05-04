@@ -9,7 +9,7 @@
         "33495275-6888-4b88-ae16-a35fe028d06b"
     ],
     "filterType": "GMObject",
-    "folderName": "oScenes",
+    "folderName": "Scenes",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

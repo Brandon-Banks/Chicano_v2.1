@@ -8,7 +8,7 @@
         "db434576-62fa-4a12-b3dd-5a04e3b548ac"
     ],
     "filterType": "GMObject",
-    "folderName": "oNPCs",
+    "folderName": "NPCs",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

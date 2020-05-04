@@ -12,8 +12,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "This is the third cutscene.\nYou know what that means.";
-strings[1] = "Well then please tell me. Because\nI don't know what that means.";
-strings[2] = "Did you heard the tragedy of Darth Plaigus\nthe Wise?I thought not. It's not a\nstory the jedi would tell you.";
-strings[3] = "You've got 20 days me dude.";
-strings[4] = "S'go bucs!"
+strings[0] = "You've been protesting\nso much lately.";
+strings[1] = "Places like the 'DiGiorgio Fruit Corp'\nshould know how unethical their\npractices are!";
+strings[2] = "I hope that the rest of the United States\nis noticing how important this cause is.";
+strings[3] = "Cesar Chavez is getting some good press\nfor his fast which is a good sign!";
+strings[4] = "Keep up the good work! You still have\n20 days until you head out right?"

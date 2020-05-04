@@ -12,8 +12,8 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "You've been protesting so much lately.";
-strings[1] = "I hope that the rest of the United States\nis noticing how important this cause is.";
-strings[2] = "This is also filler text. I didn't really\nknow what else to write here.";
-strings[3] = "You still have 25 days\nuntil you head out right?";
-strings[4] = "I'm proud of all\nyou're doing Miguel!"
+strings[0] = "You have done some\ngood prep work!";
+strings[1] = "On your way home from work,\nyou ran into some friends.";
+strings[2] = "While talking in spanish to\nyour friends on the side\nof the road, a car drove past.";
+strings[3] = "They rolled down their window,\nheard you and yelled a derogatory\nphrase.";
+strings[4] = "You and your friends are disappointed, but\nhey, you are leaving in a few short weeks!\nLet’s keep preparing!"
