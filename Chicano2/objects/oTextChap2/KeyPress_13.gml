@@ -31,4 +31,12 @@ if (question == false)
 		//room_goto(rMenu);
 		SlideTransition(TRANS_MODE.GOTO,rMenu);
 	}
+	if (global.sprite == "E1EEE1E" || global.sprite == "E2EEE1EE1E")
+	{
+		room_goto(rChap2Loss);
+	}
+	if (global.sprite == "E1EEE2E" || global.sprite == "E1EEE3E1E" || global.sprite == "E1EEE3E2E" || global.sprite == "E1EEE4EE" || global.sprite == "E2EEE2EEEE" || global.sprite == "E2EEE1EE2E")
+	{
+		room_goto(rCutsceneChap2);
+	}
 }

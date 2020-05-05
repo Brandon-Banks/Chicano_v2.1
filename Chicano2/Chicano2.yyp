@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "747097a7-fc1f-4673-9abc-ae96291083a1",
+            "Value": {
+                "id": "af04f8d7-5550-4ee8-95cd-b638fc845f52",
+                "resourcePath": "rooms\/rChap2Loss\/rChap2Loss.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "750f929c-2a08-4782-8892-6663794e52b8",
             "Value": {
                 "id": "b61b313c-9b54-4641-aa3d-843f04479aa3",
@@ -588,6 +596,14 @@
                 "id": "e5c1cf6e-0a73-4b19-820d-c9acd6092fea",
                 "resourcePath": "views\/81545053-3d70-4ae3-903a-b162fc92fa1a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "83b08c10-5987-49d3-a36e-d80d44af2ed6",
+            "Value": {
+                "id": "9ea0828f-9d1a-4766-b110-f7a00306bf47",
+                "resourcePath": "objects\/oChap2Loss\/oChap2Loss.yy",
+                "resourceType": "GMObject"
             }
         },
         {

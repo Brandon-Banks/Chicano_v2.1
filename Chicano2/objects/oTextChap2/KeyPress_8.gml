@@ -1,3 +1,3 @@
 /// @desc Restart
 
-game_restart();
+room_goto(rMainChap2);

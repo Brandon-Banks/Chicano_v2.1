@@ -19,7 +19,7 @@ if (question == false)
 	}
 	if (text = "Cool.")
 	{
-		room_goto(rTransitionChap1);
+		room_goto(rCutscene1);
 	}
 	if (room = rLose)
 	{
