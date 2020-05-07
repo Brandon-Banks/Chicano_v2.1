@@ -44,7 +44,7 @@ if (global.soc > global.statmax)
 
 draw_set_font(fHeader);
 draw_set_halign(fa_left);
-draw_text(555,180,"MIGUEL");
+draw_text(555,180,"CHAPTER 1");
 
 draw_set_font(fBody);
 draw_text(555,600,"Press Enter to Continue");
