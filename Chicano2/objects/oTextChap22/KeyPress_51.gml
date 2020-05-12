@@ -8,7 +8,7 @@ if (question == true)
 	{
 		if (global.sprite != "E1EEE2EEEE")
 		{
-			if (global.sprite != "B")
+			if (global.sprite != "E")
 			{
 				if (global.sprite != "C")
 				{

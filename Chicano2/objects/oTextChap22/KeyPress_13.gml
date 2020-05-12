@@ -10,11 +10,11 @@ if (question == false)
 	draw_text_speed("Reset");
 	
 	
-	if (global.sprite == "E1EE1EEE" || global.sprite == "E1EE2EEEE1EEEE" || global.sprite == "VVV" || global.sprite == "CCC")
+	if (global.sprite == "E1EE1EEE" || global.sprite == "E1EE2EEEE1EEEE" || global.sprite == "E2EEEEE1EEE" || global.sprite == "CCC")
 	{
 		room_goto(rChap2Loss);
 	}
-	if (global.sprite == "AA" || global.sprite == "BB" || global.sprite == "CC" || global.sprite == "DD" || 
+	if (global.sprite == "E1EE2EEEE2EEEE" || global.sprite == "E2EEEEE2EEEE" || global.sprite == "CC" || global.sprite == "DD" || 
 	global.sprite == "EE" || global.sprite == "FF" || global.sprite == "GG" || global.sprite == "HH" || 
 	global.sprite == "II" || global.sprite == "JJ" || global.sprite == "KK" )
 	{

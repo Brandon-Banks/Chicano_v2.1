@@ -3,25 +3,25 @@
 
 if (global.sprite == "E1")
 {
-	sprite_index = sBus;
+	sprite_index = sGasStation;
 	//object_set_sprite(oChar2, sMiguelWorking);
 	visible = true;
 }
 
 else if (global.sprite == "E2")
 {
-	sprite_index = sCarDrivingNight;
+	sprite_index = sAppleOrchard;
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }
 
-else if (global.sprite == "E2EEE1" || global.sprite == "E2EEE2E")
+else if (global.sprite == "E1EE2")
 {
-	sprite_index = sHitchHikeDrive;
+	sprite_index = sAppleOrchard;
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }
-
+/*
 else if (global.sprite == "E3")
 {
 	sprite_index = sCarDriving;
@@ -36,13 +36,5 @@ else if (global.sprite == "E4")
 	//object_set_sprite(oChar2, sMiguelStudy);
 	visible = true;
 }
-/*
-else if (string_char_at(global.sprite, string_length(global.sprite)) == "E")
-{
-	sprite_index = sRoad;
-	//object_set_sprite(oChar2, sMiguelidle);
-	visible = true;
-}
 */
-
 else visible = true;

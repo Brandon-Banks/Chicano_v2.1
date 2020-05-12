@@ -4,7 +4,7 @@ xpos = 640;
 a = 1;
 fadeout = 0;
 
-global.sup += 20;
+global.sup += 10;
 
 str = "";
 print = "";

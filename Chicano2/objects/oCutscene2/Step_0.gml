@@ -24,5 +24,8 @@ if (keyboard_check_direct(vk_space))
 
 if (holdspace > 80) || (xpos < 100) fadeout = 1;
 
-if (a == 1) && (fadeout == 1) && (global.money >= 20) room_goto(rMain2);
-if (a == 1) && (fadeout == 1) && (global.money < 20) room_goto(rMoneyLoss);
+if (a == 1) && (fadeout == 1) && (global.money >= 1) && (global.soc >= 1) && (global.sup >= 1) && (global.work >= 1) room_goto(rMain2);
+if (a == 1) && (fadeout == 1) && (global.money < 1) room_goto(rMoneyLoss);
+if (a == 1) && (fadeout == 1) && (global.soc < 1) room_goto(rSocLoss);
+if (a == 1) && (fadeout == 1) && (global.sup < 1) room_goto(rSupLoss);
+if (a == 1) && (fadeout == 1) && (global.work < 1) room_goto(rWorkLoss);

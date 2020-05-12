@@ -31,13 +31,13 @@ if (question == false)
 		//room_goto(rMenu);
 		SlideTransition(TRANS_MODE.GOTO,rMenu);
 	}
-	if (global.sprite == "E1EEE1E" || global.sprite == "E2EEE1EE1E" || global.sprite == "E3EEEEE1EE" || global.sprite == "E4EEE1E")
+
+	if (global.sprite == "EEEEEEEEEE1EE")
 	{
-		room_goto(rChap2Loss);
+		room_goto(rWinOregon);
 	}
-	if (global.sprite == "E1EEE2E" || global.sprite == "E1EEE3E1E" || global.sprite == "E1EEE3E2E" || global.sprite == "E1EEE4EE" || 
-	global.sprite == "E2EEE2EEEE" || global.sprite == "E2EEE1EE2E" || global.sprite == "E3EEEEE2EEE" || global.sprite == "E4EEE2E" || 
-	global.sprite == "E4EEE3E1E" || global.sprite == "E4EEE3E2E" || global.sprite == "E4EEE4EE" )
+	
+	if (global.sprite == "EEEEEEEEEE2E")
 	{
 		room_goto(rTransitionChap2);
 	}

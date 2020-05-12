@@ -5,10 +5,10 @@ audio_play_sound(sndCutscene,1,true);
 audio_sound_gain(sndCutscene,-1,0);
 audio_sound_gain(sndCutscene,.2,5000);
 
-global.money2 = 50; //global.money;
-global.sup2= 50;    //global.sup;
-global.work2 = 50;  //global.work;
-global.soc2 = 50;   //global.soc;
+global.money2 = global.money;
+global.sup2= global.sup;
+global.work2 = global.work;
+global.soc2 = global.soc;
 
 xpos = 640;
 a = 1;

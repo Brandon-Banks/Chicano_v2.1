@@ -4,7 +4,7 @@ audio_play_sound(sndPress, 111, false);
 
 if (question == true)
 {
-	if (global.sprite != "E2EEE1EE")
+	if (global.sprite != "EEEEEEEEEE")
 	{
 		if (global.sprite != "E1EEE3E")
 		{
