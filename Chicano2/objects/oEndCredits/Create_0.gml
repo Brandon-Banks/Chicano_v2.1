@@ -17,7 +17,7 @@ next = 0;
 holdspace = 0;
 
 strings[0] = "Code Wizard\nBRANDON BANKS";
-strings[1] = "Text Dude\nNORA";
-strings[2] = "Art Man\nJUSTIN";
-strings[3] = "Music Guy\nTYLER";
-strings[4] = "Supreme Leaders\nJAYNE AND SASHA"
+strings[1] = "Pixel Artman\nJUSTIN HAGEDORN";
+strings[2] = "The Narrator\nNORA RICHES";
+strings[3] = "Music Man\nTYLER SEYMOUR";
+strings[4] = "Supreme Leaders\nJAYNE GRIMES\n&\nSASHA WILLIS"

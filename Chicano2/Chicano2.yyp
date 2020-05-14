@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "362509ea-ba12-42a5-9d72-a878130a84bb",
+            "Value": {
+                "id": "237da74d-1f6a-41e0-b80c-1606a5d7b41e",
+                "resourcePath": "objects\/oSceneGranFreetime\/oSceneGranFreetime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3733adb6-1014-4ae3-8944-fa2c9d4861cc",
             "Value": {
                 "id": "58a6b8c8-dcb4-4a40-aa38-873005cfd03b",
@@ -826,7 +834,7 @@
             "Key": "6888d1c3-50df-46d2-bd06-ed09a2c6668a",
             "Value": {
                 "id": "3380da51-5f78-4a65-9968-b87e6738c905",
-                "resourcePath": "objects\/oChap3Place\/oChap3Place.yy",
+                "resourcePath": "objects\/oSceneChap3Place\/oSceneChap3Place.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1511,6 +1519,14 @@
             }
         },
         {
+            "Key": "b6b1bd9d-d46f-4b3c-ab1b-3817be3d13c1",
+            "Value": {
+                "id": "9d0475d4-965c-4689-a7eb-9ea90dea2da2",
+                "resourcePath": "objects\/oSceneSeaFreetime\/oSceneSeaFreetime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6da1152-ff6b-4c40-96f5-64fd5d0053a6",
             "Value": {
                 "id": "690b2801-1064-4858-ba7d-9fedf350fc62",
@@ -1996,6 +2012,22 @@
                 "id": "73cc28d2-640e-427b-88b8-ab95f30539c5",
                 "resourcePath": "rooms\/rMain3\/rMain3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e715ef97-51d7-462e-b4ff-1679c71a840b",
+            "Value": {
+                "id": "e302cddd-0369-45ab-92b9-0b0d5abbf53b",
+                "resourcePath": "sprites\/sMiguelidleSuit\/sMiguelidleSuit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e8b1b28d-3b09-4bf9-8a9e-188a8f985cc8",
+            "Value": {
+                "id": "8a6b1158-8312-4dcf-872c-7604e72e1144",
+                "resourcePath": "objects\/oSceneSeaMiguelProtest\/oSceneSeaMiguelProtest.yy",
+                "resourceType": "GMObject"
             }
         },
         {
