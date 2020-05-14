@@ -335,6 +335,22 @@
             }
         },
         {
+            "Key": "2662b8d6-51e1-446f-9f45-602108dd2c19",
+            "Value": {
+                "id": "d8b0a4dc-1cde-4b03-a124-7d745df61fe1",
+                "resourcePath": "sprites\/sSeattleCut2\/sSeattleCut2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "268fc779-6f49-444d-917a-a738a8da1ca4",
+            "Value": {
+                "id": "43dd7b6e-56ee-4b66-88d5-2a0029b14c6a",
+                "resourcePath": "sprites\/sApartment\/sApartment.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27e93748-1637-46ac-9940-1b18c1de55cd",
             "Value": {
                 "id": "4c39adea-b415-41ba-8951-16a3779be09b",
@@ -519,6 +535,14 @@
             }
         },
         {
+            "Key": "3c5bf7e3-c95f-41e6-b17d-723df4e45850",
+            "Value": {
+                "id": "0537dfec-9e38-4657-a19b-34d04c86f4b3",
+                "resourcePath": "sprites\/sSeattleCut4\/sSeattleCut4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3d04e8ed-add5-4249-b692-a1e4679939b2",
             "Value": {
                 "id": "97e5d14d-db85-4c99-a8d6-7fa8f1ffb45e",
@@ -567,6 +591,14 @@
             }
         },
         {
+            "Key": "470b9db9-cc68-49f5-98ff-f56e20759e90",
+            "Value": {
+                "id": "6192f7a5-2c84-4631-b99b-7a0a96ce2fbf",
+                "resourcePath": "sprites\/sMiguelidleSuit\/sMiguelidleSuit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "47b482b2-6f67-4b92-b677-391826ac7a95",
             "Value": {
                 "id": "67192d8f-2182-45c7-b6db-41ecf125f99d",
@@ -611,6 +643,14 @@
             "Value": {
                 "id": "9450a4bc-91c5-4e5f-9495-a5ae28560f3d",
                 "resourcePath": "sprites\/sGround\/sGround.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b1ee895-35fb-445f-a67d-29f23928cd80",
+            "Value": {
+                "id": "61366ad0-1ef8-405c-b573-1d96c3ddf28e",
+                "resourcePath": "sprites\/sSeattleCut3\/sSeattleCut3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -836,6 +876,14 @@
                 "id": "f3851269-b08d-4205-88ca-46f575af3e24",
                 "resourcePath": "rooms\/rMainGranFreetime1\/rMainGranFreetime1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6ce778ad-5887-407e-a043-69322721d604",
+            "Value": {
+                "id": "1b8aded4-0520-4d56-9b13-80242a9a9d9b",
+                "resourcePath": "sprites\/sHouse\/sHouse.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1183,6 +1231,14 @@
             }
         },
         {
+            "Key": "90bb49a5-ecde-41ed-ae3e-131254fddc4c",
+            "Value": {
+                "id": "a29fe0d6-5e9e-4ac2-8acf-27ac94238c07",
+                "resourcePath": "sprites\/sHouseOrApartment\/sHouseOrApartment.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "919ce8c6-50ea-4ca1-9e18-279ff784edd5",
             "Value": {
                 "id": "6089ddb0-17c4-4538-b206-50437ac78b76",
@@ -1499,6 +1555,14 @@
             "Value": {
                 "id": "50bd6632-d9d3-4319-aee9-e13f07bd8b7b",
                 "resourcePath": "objects\/oCutsceneChap2\/oCutsceneChap2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9b11793-ff82-41a3-a4c7-016c0c646a03",
+            "Value": {
+                "id": "cf1d8da7-8301-42f1-943a-5b8a9e15282b",
+                "resourcePath": "objects\/oScenePlace\/oScenePlace.yy",
                 "resourceType": "GMObject"
             }
         },
