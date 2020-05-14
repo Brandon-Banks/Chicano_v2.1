@@ -10,14 +10,14 @@ if (global.sprite == "E1") // Protest
 
 else if (global.sprite == "E2") // Social Work
 {
-	sprite_index = sHouse;
+	sprite_index = sDonations;
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }
 
 else if (global.sprite == "E3") // Community Event
 {
-	sprite_index = sHouseOrApartment;
+	sprite_index = sCommEvent;
 	//object_set_sprite(oChar2, sMiguelProtest);
 	visible = true;
 }

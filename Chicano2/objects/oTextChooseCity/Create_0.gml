@@ -1,8 +1,7 @@
 /// @desc Text & Variables
 // Create Variables
 
-audio_sound_gain(sndCutscene,-1,5000);
-//audio_stop_all();
+audio_stop_all();
 audio_play_sound(sndBackgroundMusic,1,true);
 audio_sound_gain(sndBackgroundMusic,-1,0);
 audio_sound_gain(sndBackgroundMusic,.2,5000);
@@ -15,10 +14,10 @@ global.sprite = "";
 num = ""; // textOption value
 global.days = 0;
 
-global.money3 = 50; //global.money2;
-global.sup3 = 50; //global.sup2;
-global.work3 = 50; //global.work2;
-global.soc3 = 50; //global.soc2;
+global.money3 = global.money2;
+global.sup3 = global.sup2;
+global.work3 = global.work2;
+global.soc3 = global.soc2;
 
 global.statmax = 100;
 statbar_width = 200;

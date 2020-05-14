@@ -1,8 +1,8 @@
 /// @desc 
 audio_stop_all();
-audio_play_sound(sndCutscene,1,true);
-audio_sound_gain(sndCutscene,-1,0);
-audio_sound_gain(sndCutscene,.2,5000);
+audio_play_sound(sndCoco,1,true);
+audio_sound_gain(sndCoco,-1,0);
+audio_sound_gain(sndCoco,.2,5000);
 
 xpos = 640;
 a = 1;

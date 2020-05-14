@@ -12,7 +12,12 @@
         "d32fedbb-9e2b-44ee-9b69-76d88c3627df",
         "58ed245f-8f78-423e-ba60-c41b1e46d008",
         "b06bbeaa-648d-41eb-b82b-69fdc74693d3",
-        "ec838419-8758-42be-8ebe-c98ea5afd9de"
+        "ec838419-8758-42be-8ebe-c98ea5afd9de",
+        "99fc66c6-6683-466d-93a3-7599e4850254",
+        "c38ef6b8-9495-44d1-bfdb-6518e84c1d65",
+        "ff8e0b28-046b-423e-921f-0e3941e80cc4",
+        "65809c9b-1e02-44ab-bebe-b595822f0f7e",
+        "9cd954eb-383b-4a59-9a36-0f6cbdbee1bd"
     ],
     "filterType": "GMSprite",
     "folderName": "Cutscenes Chap3",
