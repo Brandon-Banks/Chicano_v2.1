@@ -1,4 +1,4 @@
-s/// @desc Choice 4
+/// @desc Choice 4
 
 audio_play_sound(sndPress, 111, false);
 
