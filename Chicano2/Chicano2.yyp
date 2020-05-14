@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "04751f50-b30f-4152-bc1e-a6e24b0e6098",
+            "Value": {
+                "id": "62ae2001-c0df-4f1a-a12f-24995996a3e7",
+                "resourcePath": "sprites\/sApartment\/sApartment.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0489b41d-31a5-45bc-a3e7-82598cd53c12",
             "Value": {
                 "id": "caf79ea8-286c-4470-84d0-4cac33ca52ca",
@@ -575,6 +583,14 @@
             }
         },
         {
+            "Key": "47d56ab5-8dae-484a-8f5a-bf14db72abfe",
+            "Value": {
+                "id": "17627cfe-d431-489c-8155-1f3ac7b5524f",
+                "resourcePath": "sprites\/sHouse\/sHouse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4909bb62-1cdb-4e24-9158-094c3bb90868",
             "Value": {
                 "id": "34492860-a801-4099-be2d-0a31c1070b78",
@@ -719,6 +735,14 @@
             }
         },
         {
+            "Key": "58ed245f-8f78-423e-ba60-c41b1e46d008",
+            "Value": {
+                "id": "0e8128ae-7baf-41c0-b101-44978f287a42",
+                "resourcePath": "sprites\/sSeaCutscene3\/sSeaCutscene3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "59b412b5-18aa-44f5-b842-33cee2478bd8",
             "Value": {
                 "id": "435e3e08-b296-437d-83f6-8f6083ac9ab8",
@@ -796,6 +820,14 @@
                 "id": "6fe84df8-96c1-4f4b-a182-5bb1931027c1",
                 "resourcePath": "sprites\/sCityscape\/sCityscape.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6888d1c3-50df-46d2-bd06-ed09a2c6668a",
+            "Value": {
+                "id": "3380da51-5f78-4a65-9968-b87e6738c905",
+                "resourcePath": "objects\/oChap3Place\/oChap3Place.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1271,6 +1303,14 @@
             }
         },
         {
+            "Key": "9da70a6f-0c40-4695-b1d9-5f3c9cf9e8ed",
+            "Value": {
+                "id": "511d6779-9a05-417d-bf54-af831ca0479e",
+                "resourcePath": "sprites\/sHouseOrApartment\/sHouseOrApartment.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e42b367-c37d-47b5-80ce-24d7614ec332",
             "Value": {
                 "id": "1bd520c3-dd8e-40f6-89b2-4b4149ca9f9d",
@@ -1395,6 +1435,14 @@
             "Value": {
                 "id": "6611cd0e-b7fe-440c-9110-aa07b09a91c7",
                 "resourcePath": "sprites\/sCutscene11\/sCutscene11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b06bbeaa-648d-41eb-b82b-69fdc74693d3",
+            "Value": {
+                "id": "b47497aa-c772-4476-a593-5874022bf840",
+                "resourcePath": "sprites\/sSeaCutscene4\/sSeaCutscene4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1743,6 +1791,14 @@
             }
         },
         {
+            "Key": "d32fedbb-9e2b-44ee-9b69-76d88c3627df",
+            "Value": {
+                "id": "963c3d41-ec10-4634-b5c4-317488dc0c7f",
+                "resourcePath": "sprites\/sSeaCutscene2\/sSeaCutscene2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3ed1f19-27e1-4e76-8e1c-b1f5f70f0151",
             "Value": {
                 "id": "18c8bf4c-9a6a-48e3-a98d-c2e9e8257290",
@@ -2012,6 +2068,14 @@
                 "id": "835ab8a8-841b-47de-8439-e78b42b3fbe8",
                 "resourcePath": "sounds\/sndMain\/sndMain.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ec838419-8758-42be-8ebe-c98ea5afd9de",
+            "Value": {
+                "id": "7e4f1a7e-82c0-4362-932e-b2efcb5755cf",
+                "resourcePath": "sprites\/sCityProtest\/sCityProtest.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
