@@ -1,9 +1,5 @@
 /// @desc 
-audio_stop_all();
-//audio_sound_gain(sndBackgroundMusic,-1,5000);
-audio_play_sound(sndCutscene,1,true);
-audio_sound_gain(sndCutscene,-1,0);
-audio_sound_gain(sndCutscene,.2,5000);
+
 /*
 global.money3 = 50; //global.money2;
 global.sup3 = 50; //global.sup2;

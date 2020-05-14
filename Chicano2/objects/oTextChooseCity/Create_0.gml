@@ -4,7 +4,7 @@
 audio_stop_all();
 audio_play_sound(sndBackgroundMusic,1,true);
 audio_sound_gain(sndBackgroundMusic,-1,0);
-audio_sound_gain(sndBackgroundMusic,.2,5000);
+audio_sound_gain(sndBackgroundMusic,.1,5000);
 
 textMap = ds_map_create(); //database for questions
 textOptions = ds_map_create(); //database for options

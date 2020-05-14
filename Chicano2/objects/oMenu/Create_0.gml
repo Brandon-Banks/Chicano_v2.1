@@ -2,7 +2,9 @@
 #macro SAVEFILE "Save.sav"
 
 audio_stop_all();
-audio_play_sound(sndMain,99,true);
+audio_play_sound(sndMain,1,true);
+audio_sound_gain(sndMain,-1,0);
+audio_sound_gain(sndMain,.1,5000);
 
 gui_width = display_get_gui_width();
 gui_height = display_get_gui_height();

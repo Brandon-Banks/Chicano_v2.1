@@ -1007,6 +1007,14 @@
             }
         },
         {
+            "Key": "74e58b90-9350-45b6-8a5f-3acd573ab70f",
+            "Value": {
+                "id": "c4b81d3e-68ab-4143-aad0-4373dfa96210",
+                "resourcePath": "sounds\/sndBalero\/sndBalero.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "74f3f5ce-ec16-4860-af23-e254ed2721c7",
             "Value": {
                 "id": "51a73f80-210f-4d1e-ba02-e77a222500a2",
@@ -1860,6 +1868,14 @@
                 "id": "2406672c-0ce3-4e08-8332-7b56db8c4ac5",
                 "resourcePath": "views\/d102d9c2-5f0d-40fe-ae38-922b3a8f6d89.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d132fd1c-1f04-4450-9eea-63716d57ea4a",
+            "Value": {
+                "id": "b52bd467-a878-465d-ab83-ccdf7fb7be38",
+                "resourcePath": "sounds\/sndVals\/sndVals.yy",
+                "resourceType": "GMSound"
             }
         },
         {
