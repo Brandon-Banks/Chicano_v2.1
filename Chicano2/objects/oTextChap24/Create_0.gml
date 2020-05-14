@@ -35,7 +35,7 @@ ds_map_add(textMap,"EE","Medford.");
 ds_map_add(textOptions,"EE","The man says that this church and a few others\nin the area are acting as refuges for people going\nalong the journey from the south up north for better\nworkers rights.\n\nPress Enter");
 
 ds_map_add(textMap,"EEE","Medford.");
-ds_map_add(textOptions,"EEE","He continues the tour of the church by updating\nyou on the chicano movement in Washington - activist\ntheatre groups, organized boycotts and more!\n\nPress Enter");
+ds_map_add(textOptions,"EEE","He continues the tour of the church by updating\nyou on the Chicano Movement in Washington - activist\ntheatre groups, organized boycotts and more!\n\nPress Enter");
 
 ds_map_add(textMap,"EEEE","Medford.");
 ds_map_add(textOptions,"EEEE","He shows you where a bed is available and\nsome food can be eaten.\n\nPress Enter");

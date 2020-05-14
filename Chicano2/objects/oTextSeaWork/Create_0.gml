@@ -38,7 +38,7 @@ ds_map_add(textMap,"E1","Farm Work.");
 ds_map_add(textOptions,"E1","That's a good idea, you have a lot of\nexperience on a farm.\n\nPress Enter");
 
 ds_map_add(textMap,"E1E","Farm Work.");
-ds_map_add(textOptions,"E1E","Good thing Justin at Activo gave you\nthe name of the apple farm nearby.\n\nPress Enter");
+ds_map_add(textOptions,"E1E","Good thing Justin at Active Mexicano gave you\nthe name of the apple farm nearby.\n\nPress Enter");
 
 ds_map_add(textMap,"E1EE","Farm Work.");
 ds_map_add(textOptions,"E1EE","You go and talk to the farm owner...\n\nPress Enter");
@@ -60,7 +60,7 @@ ds_map_add(textMap,"E1EEEEE1E","Job Accepted.");
 ds_map_add(textOptions,"E1EEEEE1E","You start next week!\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEEEE1EE","Job Accepted.");
-ds_map_add(textOptions,"E1EEEEE1EE","Better relax while you can.\n\nPress Enter");
+ds_map_add(textOptions,"E1EEEEE1EE","YOU GAINED 10 WORK EXP!\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEEEE1EEE","Job Accepted.");
 ds_map_add(textOptions,"E1EEEEE1EEE","Press Enter");
@@ -80,12 +80,78 @@ ds_map_add(textMap,"E2","Spanish Translator.");
 ds_map_add(textOptions,"E2","Sweet! This works a little\ndifferently.\n\nPress Enter");
 
 ds_map_add(textMap,"E2E","Spanish Translator.");
-ds_map_add(textOptions,"E2E","Sweet! This works a little\ndifferently.\n\nPress Enter");
+ds_map_add(textOptions,"E2E","There are different jobs that you\nsign up for and then get paid by hour.\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE","Still Interested?");
+ds_map_add(textOptions,"E2EE","1.) Duh!\n2.) It's not for me.");
+
+/// Opt 1
+ds_map_add(textMap,"E2EE1","Spanish Translator");
+ds_map_add(textOptions,"E2EE1","Good to hear!\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE1E","Spanish Translator");
+ds_map_add(textOptions,"E2EE1E","Ok cool! There is a job coming up\nthat you can sign up for.\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE1EE","Spanish Translator");
+ds_map_add(textOptions,"E2EE1EE","It went extremely well and everyone\nloved you! You already have three more\njobs lined up for next week.\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE1EEE","Spanish Translator");
+ds_map_add(textOptions,"E2EE1EEE","Awesome-sauce!\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE1EEEE","Spanish Translator");
+ds_map_add(textOptions,"E2EE1EEEE","Press Enter");
+
+/// Opt 2
+ds_map_add(textMap,"E2EE2","Spanish Translator");
+ds_map_add(textOptions,"E2EE2","That's okay...\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE2E","Spanish Translator");
+ds_map_add(textOptions,"E2EE2E","I'm sure you'll find somehthing!\n\nPress Enter");
+
+ds_map_add(textMap,"E2EE2EE","Spanish Translator");
+ds_map_add(textOptions,"E2EE2EE","Press Enter");
 
 ///// Church Role
 ds_map_add(textMap,"E3","Church Role.");
-ds_map_add(textOptions,"E3","Noice\n\nPress Enter");
+ds_map_add(textOptions,"E3","You head over to St James Cathedral\nto look for work.\n\nPress Enter");
 
+ds_map_add(textMap,"E3E","Church Role.");
+ds_map_add(textOptions,"E3E","They tell you that they have two\nopen positions.\n\nPress Enter");
 
+ds_map_add(textMap,"E3EE","What role do you want?");
+ds_map_add(textOptions,"E3EE","1.) Maintenance\n2.) Stone Mason");
 
-////////////////////////////////////////////////
+/// Opt 1
+ds_map_add(textMap,"E3EE1","Maintenance.");
+ds_map_add(textOptions,"E3EE1","You accept the role of maintenance\nworker.\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE1E","Maintenance.");
+ds_map_add(textOptions,"E3EE1E","You find the work very fulfilling.\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE1EE","Maintenance.");
+ds_map_add(textOptions,"E3EE1EE","You help keep the church operating!\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE1EEE","Maintenance.");
+ds_map_add(textOptions,"E3EE1EEE","YOU EARNED 10 WORK EXP!\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE1EEEE","Maintenance.");
+ds_map_add(textOptions,"E3EE1EEEE","Press Enter");
+
+ds_map_add(textMap,"E3EE1EEEEE","Maintenance.");
+ds_map_add(textOptions,"E3EE1EEEEE","Press Enter");
+
+/// Opt 2
+ds_map_add(textMap,"E3EE2","Stone Mason.");
+ds_map_add(textOptions,"E3EE2","You accept the role of stone mason.\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE2E","Stone Mason.");
+ds_map_add(textOptions,"E3EE2E","It takes you some time to finish training,\nbut you eventually learn all you need.\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE2E","Stone Mason.");
+ds_map_add(textOptions,"E3EE2E","You really enjoy your work!\n\nPress Enter");
+
+ds_map_add(textMap,"E3EE2EE","Stone Mason.");
+ds_map_add(textOptions,"E3EE2EE","Press Enter");
+
+ds_map_add(textMap,"E3EE2EEE","Stone Mason.");
+ds_map_add(textOptions,"E3EE2EEE","Press Enter");

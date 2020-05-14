@@ -31,14 +31,11 @@ if (question == false)
 		//room_goto(rMenu);
 		SlideTransition(TRANS_MODE.GOTO,rMenu);
 	}
-	if (global.sprite == "E1EEE1E" || global.sprite == "E2EEE1EE1E" || global.sprite == "E3EEEEE1EE" || global.sprite == "E4EEE1E")
-	{
-		room_goto(rChap2Loss);
-	}
+
 	if (global.sprite == "E1EEEEE2EE" || global.sprite == "E1EEEEE1EEEE" || global.sprite == "E2EEE1EEE" || global.sprite == "E2EEE2EEEE" 
 		|| global.sprite == "E3EEE1EEEE" || global.sprite == "E3EEE2EEE")
 	{
-		room_goto(rCutsceneChap3);
+		room_goto(rCutsceneGranFreetime);
 	}
 	if (global.sprite == "E1EEEEE1EEE")
 	{

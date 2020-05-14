@@ -35,13 +35,19 @@ if (question == false)
 	{
 		room_goto(rChap2Loss);
 	}
-	if (global.sprite == "E1EEEEE1EEE" || global.sprite == "AA" || global.sprite == "BB" || global.sprite == "CC" 
+	if (global.sprite == "E1EEEEE1EEE" || global.sprite == "E2EE1EEE" || global.sprite == "E3EE1EEEE" || global.sprite == "E3EE2EE" 
 		|| global.sprite == "DD")
 	{
 		room_goto(rCutsceneSeaWork);
 	}
-	if (global.sprite == "E1EEEEE2E")
+	if (global.sprite == "E1EEEEE2E" || global.sprite == "E2EE2E" || global.sprite == "AA" || global.sprite == "AA" 
+		|| global.sprite == "BB")
 	{
 		room_goto(rMainSeaWork);
+	}
+	if (global.sprite == "E1EEEEE1EE" || global.sprite == "E2EE1EE" || global.sprite == "E3EE1EEE" || global.sprite == "E3EE2E"
+		 || global.sprite == "BB" || global.sprite == "CC" || global.sprite == "CC")
+	{
+		global.work3 += 10;
 	}
 }

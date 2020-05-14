@@ -25,5 +25,5 @@ holdspace = 0;
 strings[0] = "Congratulations on making it on the trek\nthrough California and Oregon into\nWashington!";
 strings[1] = "You've finally made it to the\nEvergreen State of Washington!";
 strings[2] = "Looks like you landed in Seattle!";
-strings[3] = "It is a city with a lot of Chicano\nmovement momentum!";
+strings[3] = "It is a city with a lot of Chicano\nMovement momentum!";
 strings[4] = "Now you get to settle down and figure\nout what life looks like for you here!"

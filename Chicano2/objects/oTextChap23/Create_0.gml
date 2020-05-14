@@ -99,7 +99,7 @@ ds_map_add(textMap,"E2E","Hacer Autostop.");
 ds_map_add(textOptions,"E2E","A person pulls over and asks where you are going,\nyou tell them that you are looking for a ride North.\n\nPress Enter");
 
 ds_map_add(textMap,"E2EE","Hacer Autostop.");
-ds_map_add(textOptions,"E2EE","He says he is on his way to Sacramento and offers a\nride. He looks a little suspicious but that\nis a good direction.\n\nPress Enter");
+ds_map_add(textOptions,"E2EE","He says he is on his way to Oregon and offers a\nride. He looks a little suspicious but that\nis a good direction.\n\nPress Enter");
 
 ds_map_add(textMap,"E2EEE","What do you do?");
 ds_map_add(textOptions,"E2EEE","1.)Hop in! He is offering to drive you a long way!\n2.)Tell him thanks, but keep waiting for a\nperson that looks trustworthy!");

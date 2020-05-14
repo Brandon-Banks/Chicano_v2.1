@@ -24,4 +24,4 @@ if (keyboard_check_direct(vk_space))
 
 if (holdspace > 80) || (xpos < 100) fadeout = 1;
 
-if (a == 1) && (fadeout == 1) room_goto(rMainSeaFreetime);
+if (a == 1) && (fadeout == 1) room_goto(rMainGranFreetime);

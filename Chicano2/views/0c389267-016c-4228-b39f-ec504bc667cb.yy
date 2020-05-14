@@ -6,7 +6,8 @@
     "children": [
         "1a109637-21e2-4361-be38-25d71d8da7c4",
         "9438cf87-935c-4986-8c47-7a17bb9c2452",
-        "5cf0e484-c363-43cc-a0cd-6bfe387451f6"
+        "5cf0e484-c363-43cc-a0cd-6bfe387451f6",
+        "b4246508-21cb-4ef3-b5bb-c98ad543f9c8"
     ],
     "filterType": "GMObject",
     "folderName": "Transitions",
