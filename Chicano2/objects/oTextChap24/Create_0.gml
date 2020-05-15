@@ -29,10 +29,10 @@ question = false;
 ds_map_add(textMap,"","Medford.");
 
 ds_map_add(textMap,"E","Medford.");
-ds_map_add(textOptions,"E","After walking for a while, the make takes you\ninto a church. It looks suspicious at first but\nin the basement there are beds for quite a few people.\n\nPress Enter");
+ds_map_add(textOptions,"E","After walking for a while, the man takes you\ninto a church. It looks suspicious at first but\nin the basement there are beds for quite a few people.\n\nPress Enter");
 
 ds_map_add(textMap,"EE","Medford.");
-ds_map_add(textOptions,"EE","The man says that this church and a few others\nin the area are acting as refuges for people going\nalong the journey from the south up north for better\nworkers rights.\n\nPress Enter");
+ds_map_add(textOptions,"EE","The man says that this church and a few others\nin the area are acting as refugees for people going\nalong the journey from the south up north for better\nworkers rights.\n\nPress Enter");
 
 ds_map_add(textMap,"EEE","Medford.");
 ds_map_add(textOptions,"EEE","He continues the tour of the church by updating\nyou on the Chicano Movement in Washington - activist\ntheatre groups, organized boycotts and more!\n\nPress Enter");

@@ -36,19 +36,19 @@ ds_map_add(textMap,"E1","Viaje en Autobus.");
 ds_map_add(textOptions,"E1","A couple of your buddies\nare going that way too!\n\nPress Enter");
 
 ds_map_add(textMap,"E1E","Viaje en Autobus.");
-ds_map_add(textOptions,"E1E","This first ticket is taking\nyou to Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E1E","This first ticket is taking\nyou to Oregon!\n\nPress Enter");
 
 ds_map_add(textMap,"E1EE","Viaje en Autobus.");
-ds_map_add(textOptions,"E1EE","When getting on the bus, the bus driver stops you\nand asks why you are going to Sacramento.\n\nPress Enter");
+ds_map_add(textOptions,"E1EE","When getting on the bus, the bus driver stops you\nand asks why you are going to Oregon.\n\nPress Enter");
 // Why are you on the bus?
 ds_map_add(textMap,"E1EEE","What do you say?");
-ds_map_add(textOptions,"E1EEE","1.) 'I am an activist going to support the\nChicano movement in Washington.'\n2.) 'I am going to visit family in Sacramento.'\n3.) 'Going on a vacation?'\n4.) 'Going to find a new job in Washington.'");
+ds_map_add(textOptions,"E1EEE","1.) 'I am an activist going to support the\nChicano movement in Washington.'\n2.) 'I am going to visit family in Oregon.'\n3.) 'Going on a vacation?'\n4.) 'Going to find a new job in Washington.'");
 
 ds_map_add(textMap,"E1EEE1","Viaje en Autobus.");
 ds_map_add(textOptions,"E1EEE1","The driver is against the Chicano movement and\ntells you that you can't get on the bus.\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEE2","Viaje en Autobus.");
-ds_map_add(textOptions,"E1EEE2","The driver believes the lie and you are\non the bus on your way to Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E1EEE2","The driver believes the lie and you are\non the bus on your way to Oregon!\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEE3","Viaje en Autobus.");
 ds_map_add(textOptions,"E1EEE3","The driver doesn't believe you and blatantly asks if\nyou are a part of the Chicano movement.\n\nPress Enter");
@@ -63,7 +63,7 @@ ds_map_add(textOptions,"E1EEE1E","Uh oh...\n\nPress Enter");
 
 // Aftermath of bus choice. : Choice 2
 ds_map_add(textMap,"E1EEE2E","Viaje en Autobus.");
-ds_map_add(textOptions,"E1EEE2E","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E1EEE2E","You are on your way\nto Oregon!\n\nPress Enter");
 
 
 // Aftermath of bus choice. : Choice 3
@@ -74,13 +74,13 @@ ds_map_add(textMap,"E1EEE3E1","Viaje en Autobus.");
 ds_map_add(textOptions,"E1EEE3E1","The driver gives you a weary nod but\nstill lets you on the bus.\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEE3E1E","Viaje en Autobus.");
-ds_map_add(textOptions,"E1EEE3E1E","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E1EEE3E1E","You are on your way\nto Oregon!\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEE3E2","Viaje en Autobus.");
 ds_map_add(textOptions,"E1EEE3E2","The driver gives you a small nod.\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEE3E2E","Viaje en Autobus.");
-ds_map_add(textOptions,"E1EEE3E2E","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E1EEE3E2E","You are on your way\nto Oregon!\n\nPress Enter");
 
 
 // Aftermath of bus choice. : Choice 4
@@ -88,7 +88,7 @@ ds_map_add(textMap,"E1EEE4E","Viaje en Autobus.");
 ds_map_add(textOptions,"E1EEE4E","He looks suspicious but still nods\nyou on to go onto the bus.\n\nPress Enter");
 
 ds_map_add(textMap,"E1EEE4EE","Viaje en Autobus.");
-ds_map_add(textOptions,"E1EEE4EE","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E1EEE4EE","You are on your way\nto Oregon!\n\nPress Enter");
 
 
 //////////////////////////////////// HITCH-HIKE
@@ -197,19 +197,19 @@ ds_map_add(textMap,"E4","Viaje en Tren.");
 ds_map_add(textOptions,"E4","You've never been on a train before,\nthis is exciting!\n\nPress Enter");
 
 ds_map_add(textMap,"E4E","Viaje en Tren.");
-ds_map_add(textOptions,"E4E","This train is taking\nyou to Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4E","This train is taking\nyou to Oregon!\n\nPress Enter");
 
 ds_map_add(textMap,"E4EE","Viaje en Tren.");
-ds_map_add(textOptions,"E4EE","When getting on the train, the manager stops you\nand asks why you are going to Sacramento.\n\nPress Enter");
+ds_map_add(textOptions,"E4EE","When getting on the train, the manager stops you\nand asks why you are going to Oregon.\n\nPress Enter");
 // Why are you on the bus?
 ds_map_add(textMap,"E4EEE","What do you say?");
-ds_map_add(textOptions,"E4EEE","1.) 'I am an activist going to support the\nChicano movement in Washington.'\n2.) 'I am going to visit family in Sacramento.'\n3.) 'Going on a vacation?'\n4.) 'Going to find a new job in Washington.'");
+ds_map_add(textOptions,"E4EEE","1.) 'I am an activist going to support the\nChicano movement in Washington.'\n2.) 'I am going to visit family in Oregon.'\n3.) 'Going on a vacation?'\n4.) 'Going to find a new job in Washington.'");
 
 ds_map_add(textMap,"E4EEE1","Viaje en Tren.");
 ds_map_add(textOptions,"E4EEE1","The manager is against the Chicano movement and\ntells you that you can't get on the bus.\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE2","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE2","The manager believes the lie and you are\non the bus on your way to Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE2","The manager believes the lie and you are\non the bus on your way to Oregon!\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE3","Viaje en Tren.");
 ds_map_add(textOptions,"E4EEE3","The manager doesn't believe you and blatantly asks if\nyou are a part of the Chicano movement.\n\nPress Enter");
@@ -224,7 +224,7 @@ ds_map_add(textOptions,"E4EEE1E","Uh oh...\n\nPress Enter");
 
 // Aftermath of bus choice. : Choice 2
 ds_map_add(textMap,"E4EEE2E","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE2E","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE2E","You are on your way\nto Oregon!\n\nPress Enter");
 
 
 // Aftermath of bus choice. : Choice 3
@@ -235,13 +235,13 @@ ds_map_add(textMap,"E4EEE3E1","Viaje en Tren.");
 ds_map_add(textOptions,"E4EEE3E1","The manager scoffs but\nstill lets you on the train.\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE3E1E","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE3E1E","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE3E1E","You are on your way\nto Oregon!\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE3E2","Viaje en Tren.");
 ds_map_add(textOptions,"E4EEE3E2","The manager winces at you as you walk\npast him onto the train.\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE3E2E","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE3E2E","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE3E2E","You are on your way\nto Oregon!\n\nPress Enter");
 
 
 // Aftermath of bus choice. : Choice 4
@@ -249,7 +249,7 @@ ds_map_add(textMap,"E4EEE4E","Viaje en Tren.");
 ds_map_add(textOptions,"E4EEE4E","He takes a long sigh, but still lets\nyou onto the train.\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE4EE","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE4EE","You are on your way\nto Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE4EE","You are on your way\nto Oregon!\n\nPress Enter");
 
 
 
