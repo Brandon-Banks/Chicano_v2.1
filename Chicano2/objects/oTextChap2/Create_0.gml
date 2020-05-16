@@ -212,10 +212,10 @@ ds_map_add(textMap,"E4EEE","What do you say?");
 ds_map_add(textOptions,"E4EEE","1.) 'I am an activist going to support the\nChicano movement in Washington.'\n2.) 'I am going to visit family in Sacramento.'\n3.) 'Going on a vacation?'\n4.) 'Going to find a new job in Washington.'");
 
 ds_map_add(textMap,"E4EEE1","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE1","The manager is against the Chicano movement and\ntells you that you can't get on the bus.\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE1","The manager is against the Chicano movement and\ntells you that you can't get on the train.\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE2","Viaje en Tren.");
-ds_map_add(textOptions,"E4EEE2","The manager believes the lie and you are\non the bus on your way to Sacramento!\n\nPress Enter");
+ds_map_add(textOptions,"E4EEE2","The manager believes the lie and you are\non the train on your way to Sacramento!\n\nPress Enter");
 
 ds_map_add(textMap,"E4EEE3","Viaje en Tren.");
 ds_map_add(textOptions,"E4EEE3","The manager doesn't believe you and blatantly asks if\nyou are a part of the Chicano movement.\n\nPress Enter");

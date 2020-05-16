@@ -527,6 +527,14 @@
             }
         },
         {
+            "Key": "3b5257a3-7483-4901-a7b6-0ba488e4bf3d",
+            "Value": {
+                "id": "b13fe931-7314-4a0e-b1f0-f69ca9c076f1",
+                "resourcePath": "sounds\/sndEndCredits\/sndEndCredits.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3bcb5e74-c472-4c58-be2d-336ed0f2f038",
             "Value": {
                 "id": "f314a719-55fc-4c11-a5f6-293b20ce6ee7",

@@ -1,8 +1,8 @@
 {
-    "id": "ebbb4f15-9f32-47fb-bc89-b924dbe7be0a",
+    "id": "3b5257a3-7483-4901-a7b6-0ba488e4bf3d",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sndMain",
+    "name": "sndEndCredits",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

@@ -1,3 +1,3 @@
 /// @desc Restart
 
-room_goto(rMainChap3City);
+//room_goto(rMainChap3City);

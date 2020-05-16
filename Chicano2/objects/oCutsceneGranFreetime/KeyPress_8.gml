@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(rMainGranFreetime1);
+//room_goto(rMainGranFreetime1);

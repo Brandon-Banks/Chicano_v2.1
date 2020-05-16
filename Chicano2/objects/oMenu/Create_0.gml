@@ -19,10 +19,10 @@ menu_itemheight = font_get_size(fHeader);
 menu_committed = -1;
 menu_control = true;
 
-menu[2] = "New Game";
-menu[1] = "Continue";
+menu[1] = "New Game";
+//menu[1] = "Continue";
 menu[0] = "Exit";
 
 menu_items = array_length_1d(menu);
-menu_cursor = 2;
+menu_cursor = 1;
 

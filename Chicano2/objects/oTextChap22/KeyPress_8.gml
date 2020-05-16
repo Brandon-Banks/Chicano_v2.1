@@ -1,3 +1,3 @@
 /// @desc Restart
 
-room_goto(rMainChap2);
+//room_goto(rMainChap2);
